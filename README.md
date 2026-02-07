@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ashwin Toppo, a Computer Science Engineering student and machine learning enthusiast.<br>⚡ Working with Next.js, React, Tailwind, NodeJS, Databases.<br>Turning ideas into code 💡 | Building real-world solutions
+👋 Hi, I’m Ashwin Toppo, a Computer Science Engineering student at IIIT Una.<br>⚡ Working with Next.js, React, Tailwind, NodeJS, Databases.<br>Turning ideas into code 💡 | Building real-world solutions
 
 
 ## 🌐 Socials:
